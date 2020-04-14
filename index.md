@@ -19,5 +19,5 @@
 Having trouble or have suggestions for Aeroplane?  
 Contact me at:  
 
-- Instagram: [BlueFlamingoGames Instagram](https://www.instagram.com/blue_flamingo_games/)
+- Instagram: [@BlueFlamingoGames](https://www.instagram.com/blue_flamingo_games/)
 - Email: BlueFlamingoGamesDev@gmail.com
