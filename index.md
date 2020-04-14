@@ -12,7 +12,7 @@
 
 Having trouble or have suggestions for Aeroplane?  
 Contact me at:  
-```
+```markdown
 - Instagram: https://www.instagram.com/blue_flamingo_games/  
 - Email: BlueFlamingoGamesDev@gmail.com
 ```
